@@ -1,3 +1,3 @@
 def say_hello(name):
-    print(f"welcome, {name}!")
+    print(f"goodbye, {name}!")
 say_hello("sir")
